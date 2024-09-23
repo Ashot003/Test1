@@ -12,6 +12,7 @@ import SearchList from "../UI/SearchList.vue";
     </div>
     <img src="/src/assets/Content/background.jpg" alt="" />
     <SearchList />
+    <div>akdsk</div>
   </div>
 </template>
 
